@@ -43,6 +43,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
   config.push.define "heroku" do |push|
     push.app = "licode"
+    push.dir = "../../"
   end
   
   ## More than 1 Core
