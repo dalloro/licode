@@ -41,6 +41,10 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   config.vm.define "licode_dev" do |licode_dev|
   end
 
+  config.push.define "heroku" do |push|
+    push.app = "licode"
+  end
+  
   ## More than 1 Core
   # vb.customize ["modifyvm", :id, "--ioapic", "on"]
   # config.vm.provider :virtualbox do |vb|
