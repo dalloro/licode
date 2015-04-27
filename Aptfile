@@ -1,0 +1,22 @@
+python-software-properties
+software-properties-common
+git
+make
+gcc
+g++
+libssl-dev
+cmake
+libglib2.0-dev
+pkg-config
+nodejs
+libboost-regex-dev
+libboost-thread-dev
+libboost-system-dev
+liblog4cxx10-dev
+rabbitmq-server
+mongodb
+openjdk-6-jre
+curl
+libboost-test-dev
+#sudo add-apt-repository ppa:chris-lea/node.js
+#sudo npm install -g node-gyp
