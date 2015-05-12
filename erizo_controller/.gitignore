@@ -1,5 +1,3 @@
-erizoClient/dist/erizofc.js
-erizoClient/build/erizofc.js
-erizoClient/dist/erizo.js
+core
 erizoController/node_modules/
 test/public/erizo.js

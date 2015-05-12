@@ -1,0 +1,1 @@
+/vagrant/licode/erizo/build/erizo/CMakeFiles/erizo.dir
