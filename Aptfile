@@ -8,7 +8,6 @@ libssl-dev
 cmake
 libglib2.0-dev
 pkg-config
-nodejs
 libboost-regex-dev
 libboost-thread-dev
 libboost-system-dev
@@ -18,5 +17,4 @@ mongodb
 openjdk-6-jre
 curl
 libboost-test-dev
-#sudo add-apt-repository ppa:chris-lea/node.js
-#sudo npm install -g node-gyp
+
