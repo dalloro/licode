@@ -17,4 +17,6 @@ mongodb
 openjdk-6-jre
 curl
 libboost-test-dev
-
+yasm
+libvpx.
+libx264.

@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
 sudo apt-get update
 sudo apt-get install -y git
+sudo apt-get install -y emacs
 cd /vagrant
-git clone https://github.com/ging/licode.git
+git clone https://github.com/dalloro/licode.git
 cd licode
 git checkout async_events 
 cd ..
