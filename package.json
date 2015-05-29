@@ -47,7 +47,7 @@
     }
   ],
   "scripts": {
-      "preinstall": "./scripts/installUbuntuDepsUnattended.sh",
+      // "preinstall": "./scripts/installUbuntuDepsUnattended.sh",
       "test": " ./node_modules/jasmine-node/bin/jasmine-node test/;karma start test/karma.conf.js"
   }
 }
