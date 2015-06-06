@@ -20,7 +20,9 @@ libboost-test-dev
 yasm
 libvpx.
 libx264.
-openssl=1.0.1g
-libnice=0.1.4
+openssl
+libssl
+libssl-dev
+libnice-dev=0.1.4
 opus=1.1
 libav=11.1
