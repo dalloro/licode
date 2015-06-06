@@ -23,6 +23,6 @@ libx264.
 openssl
 libssl
 libssl-dev
-libnice-dev=0.1.4
+libnice-dev
 opus=1.1
 libav=11.1
