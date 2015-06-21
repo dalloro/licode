@@ -21,9 +21,6 @@ yasm
 libvpx.
 libx264.
 openssl
-libssl
 libssl-dev
 libnice-dev
-opus=1.1
 libav-tools
-ubuntu-restricted-extras
