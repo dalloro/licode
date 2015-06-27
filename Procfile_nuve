@@ -1,1 +1,1 @@
-web: node nuve/nuveAPI/nuve.js
+web: cd ./nuve; ./initNuve.sh
