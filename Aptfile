@@ -5,15 +5,12 @@ make
 gcc
 g++
 cmake
-libglib2.0-dev
 pkg-config
 rabbitmq-server
 mongodb
-openjdk-6-jre
 curl
 yasm
 libvpx.
 libx264.
-libnice-dev
 libav-tools
 vim
