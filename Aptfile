@@ -24,3 +24,6 @@ openssl
 libssl-dev
 libnice-dev
 libav-tools
+vim
+emacs24
+build-essential
