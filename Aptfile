@@ -7,10 +7,6 @@ g++
 cmake
 libglib2.0-dev
 pkg-config
-libboost-regex-dev
-libboost-thread-dev
-libboost-system-dev
-liblog4cxx10-dev
 rabbitmq-server
 mongodb
 openjdk-6-jre
