@@ -20,8 +20,6 @@ libboost-test-dev
 yasm
 libvpx.
 libx264.
-openssl
-libssl-dev
 libnice-dev
 libav-tools
 vim
