@@ -1,6 +1,8 @@
 /*global exports, require, console, Buffer, __dirname*/
 var express = require('express');
 var bodyParser = require('body-parser');
+var mjs = require('mongojs');
+console.log(mjs);
 
 var db = require('./mdb/dataBase').db;
 var rpc = require('./rpc/rpc');
