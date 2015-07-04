@@ -1,1 +1,1 @@
-web: cd ./nuve; ./initNuve.sh
+web: cd ./scripts && ./installNuve.sh && cd ./nuve && ./initNuve.sh
