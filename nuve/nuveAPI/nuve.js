@@ -75,4 +75,5 @@ app.get('/rooms/:room/users', usersResource.getList);
 app.get('/rooms/:room/users/:user', userResource.getUser);
 app.delete('/rooms/:room/users/:user', userResource.deleteUser);
 
-app.listen(3000);
+// Added env.PORT for heroku deployment.
+app.listen(process.env.PORT || 3000);
