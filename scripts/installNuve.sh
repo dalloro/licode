@@ -56,5 +56,5 @@ populate_mongo(){
   rm $BUILD_DIR/licode_1.js
 }
 
-install_nuve
+#install_nuve
 populate_mongo
