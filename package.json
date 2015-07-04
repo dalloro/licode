@@ -10,7 +10,7 @@
       "errorhandler": "*",
       "express": "*",
       "log4js": "*",
-      "mongojs": "*",
+      "mongojs": "0.17.x",
       "morgan": "*",
       "node-getopt": "*",
       "nats": "*",
