@@ -4,9 +4,6 @@ sudo apt-get install -y git
 sudo apt-get install -y emacs
 cd /vagrant
 git clone https://github.com/dalloro/licode.git
-cd licode
-git checkout async_events 
-cd ..
 ./licode/scripts/installUbuntuDepsUnattended.sh --cleanup
 ./licode/scripts/installErizo.sh
 ./licode/scripts/installNuve.sh
